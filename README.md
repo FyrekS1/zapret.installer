@@ -13,7 +13,7 @@
 
 Запуск скрипта установки (необходимо наличие *curl* в системе):  
 ```bash
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/Snowy-Fluffy/zapret.installer/refs/heads/main/installer.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/FyrekS1/zapret.installer/refs/heads/main/installer.sh)"
 ```
 
 Вызов панели управления:  
